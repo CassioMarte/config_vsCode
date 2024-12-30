@@ -1,5 +1,6 @@
 # config_vsCode
-
+reseta o vscode
+//rd /s /q "%AppData%\Code" && rd /s /q "%UserProfile%\.vscode"
 
                                               //TS e JS 
 {
